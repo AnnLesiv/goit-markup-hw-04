@@ -194,7 +194,10 @@ header .container {
 .cart + .cart {
   margin-left: 30px;
 }
-
+.cart-icons {
+  width: 270px;
+  height: 120px;
+}
 .section .diference {
   font-weight: 700;
   font-size: 14px;
