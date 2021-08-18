@@ -273,6 +273,9 @@ border: 1px solid #AFB1B8;
 box-sizing: border-box;
 border-radius: 4px;
 }
+.clients-icon:nth-last-child(n) {
+  margin-right: 30px;
+}
 
 .section .work {
   font-weight: 700;
