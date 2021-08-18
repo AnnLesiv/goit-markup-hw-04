@@ -117,7 +117,10 @@ header .container {
 .mail-icon{
   width:16px;
   height:12px;
-
+}
+.phone-icon {
+   width: 10px;
+  height:16px;
 }
 /* Hero */
 .hero {
