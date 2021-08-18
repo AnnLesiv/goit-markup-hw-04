@@ -114,6 +114,11 @@ header .container {
 .contacts .contacts-nav:focus {
   color: var(--accent-color);
 }
+.mail-icon{
+  width:16px;
+  height:12px;
+
+}
 /* Hero */
 .hero {
   background-color: var(--hero-fon-color);
