@@ -4,6 +4,7 @@
   --accent-color: #2196f3;
   --hero-title-color: #fff;
   --hero-fon-color: #2f303a;
+  --icon-color :#AFB1B8;
 }
 
 *,
@@ -265,6 +266,9 @@ header .container {
   margin-bottom: 0px;
   margin-left: 0px;
   margin-right: 0px;
+}
+.clients-icon {
+ color: var(--icon-color);
 }
 .section .work {
   font-weight: 700;
