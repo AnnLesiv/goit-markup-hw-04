@@ -277,6 +277,13 @@ header .container {
   margin-left: 0px;
   margin-right: 0px;
 }
+.comand-icons{
+  display: flex;
+}
+.social{
+  width: 44px;
+  height: 44px;
+}
 /*Clients*/
 .clients-section {
   padding-top: 94px;
