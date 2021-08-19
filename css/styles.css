@@ -279,6 +279,7 @@ header .container {
 }
 .comand-icons{
   display: flex;
+  align-items: center;
 }
 .social-list +.social-list{
   margin-left: 10px;
