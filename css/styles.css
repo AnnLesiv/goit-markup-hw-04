@@ -284,8 +284,8 @@ header .container {
 .social-list +.social-list{
   margin-left: 10px;
 }
-.social-list:hover,
- .social-list:focus{
+.social:hover,
+ .social:focus{
    fill: var(--accent-color);
  }
 .social{
