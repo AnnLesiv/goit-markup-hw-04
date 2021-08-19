@@ -286,7 +286,7 @@ header .container {
 }
 .social-list:hover,
  .social-list:focus{
-   color: var(--accent-color);
+   fill: var(--accent-color);
  }
 .social{
   width: 44px;
