@@ -212,7 +212,7 @@ header .container {
 .cart-icons {
   width: 70px;
   height: 70px;
-  margin-left: 101,5px;
+  margin-left: 101px;
   margin-top: 25px;
 }
 .section .diference {
@@ -307,8 +307,10 @@ header .container {
    fill: var(--accent-color);
  }
 .social{
-  width: 44px;
-  height: 44px;
+  width: 20px;
+  height: 20px;
+  fill: #AFB1B8;
+
 }
 /*Clients*/
 .clients-section {
