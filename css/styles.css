@@ -344,6 +344,9 @@ height: 92px;
   margin-right: 30px;
 }
 .client-linc{
+display: flex;
+align-items: center;    
+justify-content: center;
 border: 1px solid #AFB1B8;
 box-sizing: border-box;
 border-radius: 4px;
