@@ -346,8 +346,8 @@ height: 92px;
 .clients-icon:nth-last-child(n) {
   margin-right: 30px;
 }
-.clients-icon:hover,
-.clients-icon:focus{
+.clients-linc:hover,
+.clients-linc:focus{
   color: var(--accent-color) ;
 }
 .client{
