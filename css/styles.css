@@ -346,6 +346,10 @@ height: 92px;
 .clients-icon:nth-last-child(n) {
   margin-right: 30px;
 }
+.clients-linc{
+width: 170px;
+height: 92px;
+}
 .clients-linc:hover,
 .clients-linc:focus{
   color: var(--accent-color) ;
