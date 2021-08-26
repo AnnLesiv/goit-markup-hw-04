@@ -193,6 +193,7 @@ header .container {
 .cart {
   width: 270px;
   height: 120px;
+  background-color: #F5F4FA;
 }
 .cart + .cart {
   margin-left: 30px;
