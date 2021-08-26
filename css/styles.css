@@ -351,8 +351,8 @@ height: 92px;
   height: 60px;
   fill:#AFB1B8;
 }
-.client-linc:hover,
-.client-linc:focus {
+.client:hover,
+.client:focus {
 fill: var(--accent-color);
 }
 
