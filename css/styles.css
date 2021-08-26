@@ -343,7 +343,7 @@ height: 92px;
 .clients-icon:nth-last-child(n) {
   margin-right: 30px;
 }
-.clients-linc{
+.client-linc{
 border: 1px solid #AFB1B8;
 box-sizing: border-box;
 border-radius: 4px;
