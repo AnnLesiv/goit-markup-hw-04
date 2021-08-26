@@ -110,6 +110,8 @@ header .container {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
+  display: flex;
+  align-items: center; 
 }
 .contacts .contacts-nav:hover,
 .contacts .contacts-nav:focus {
