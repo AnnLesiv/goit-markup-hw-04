@@ -337,9 +337,6 @@ display: flex;
 align-items: center;    
 justify-content: center;
 color: var(--icon-color);
-border: 1px solid #AFB1B8;
-box-sizing: border-box;
-border-radius: 4px;
 width: 170px;
 height: 92px;
 }
@@ -347,6 +344,9 @@ height: 92px;
   margin-right: 30px;
 }
 .clients-linc{
+border: 1px solid #AFB1B8;
+box-sizing: border-box;
+border-radius: 4px;
 width: 170px;
 height: 92px;
 }
