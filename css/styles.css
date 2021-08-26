@@ -299,6 +299,10 @@ header .container {
   display: flex;
  justify-content: space-between;
 }
+.social-list{
+  width: 44px;
+  height: 44px;
+}
 .social-list +.social-list{
   margin-left: 10px;
 }
