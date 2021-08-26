@@ -119,11 +119,13 @@ header .container {
   margin-right: 10px;
   width:16px;
   height:12px;
+  fill:var(--primary-text-color) ;
 }
 .phone-icon {
   margin-right: 10px;
   width: 10px;
   height:16px;
+  fill: var(--primary-text-color);
 }
 .mail-icon,.phone-icon:hover,
 .mail-icon,.phone-icon:focus {
@@ -210,6 +212,8 @@ header .container {
 .cart-icons {
   width: 70px;
   height: 70px;
+  margin-left: 101,5px;
+  margin-top: 25px;
 }
 .section .diference {
   font-weight: 700;
