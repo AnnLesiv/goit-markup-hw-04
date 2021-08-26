@@ -115,10 +115,12 @@ header .container {
   color: var(--accent-color);
 }
 .mail-icon{
+  margin-right: 10px;
   width:16px;
   height:12px;
 }
 .phone-icon {
+  margin-right: 10px;
   width: 10px;
   height:16px;
 }
@@ -484,7 +486,7 @@ box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0p
   display: flex;
 
 }
-.
+
 .footer-social{
   margin-top:0px;
   margin-bottom: 20px;
@@ -500,5 +502,5 @@ box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0p
   margin-left: 70px;
   
 }
-.
+
 
