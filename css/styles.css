@@ -327,14 +327,15 @@ justify-content: center;
 }
 .clients-list{
   display: flex;
-  align-items: center;    
-  justify-content: center;
 }
 .clients-section .section-title{
   margin-bottom: 50px;
 }
 
 .clients-icon {
+display: flex;
+align-items: center;    
+justify-content: center;
 color: var(--icon-color);
 border: 1px solid #AFB1B8;
 box-sizing: border-box;
