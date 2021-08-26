@@ -125,6 +125,11 @@ header .container {
   width: 10px;
   height:16px;
 }
+.mail-icon,.phone-icon:hover,
+.mail-icon,.phone-icon:focus {
+  fill: var(--accent-color);
+}
+
 /* Hero */
 .hero {
   background-color: var(--hero-fon-color);
@@ -197,6 +202,7 @@ header .container {
   width: 270px;
   height: 120px;
   background-color: #F5F4FA;
+  justify-content: center;
 }
 .cart + .cart {
   margin-left: 30px;
@@ -204,7 +210,6 @@ header .container {
 .cart-icons {
   width: 70px;
   height: 70px;
-  align-items: center;
 }
 .section .diference {
   font-weight: 700;
