@@ -262,6 +262,7 @@ header .container {
 }
 .comand .list {
   display: flex;
+  justify-content: center;
 }
 .comand .section-list {
   font-weight: 500;
