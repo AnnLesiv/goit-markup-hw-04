@@ -192,6 +192,9 @@ header .container {
 }
 .cart {
   width: 270px;
+}
+.quolities-icon{
+  width: 270px;
   height: 120px;
   background-color: #F5F4FA;
 }
@@ -201,6 +204,7 @@ header .container {
 .cart-icons {
   width: 70px;
   height: 70px;
+  align-items: center;
 }
 .section .diference {
   font-weight: 700;
