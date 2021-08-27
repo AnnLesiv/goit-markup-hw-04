@@ -300,31 +300,30 @@ justify-content: center;
   display: flex;
  justify-content: space-between;
 }
-.social-list{
-display: flex;    
-align-items: center;    
-justify-content: center;
-}
-.social-list +.social-list{
+
+.social-link +.social-link{
   margin-left: 10px;
 }
 .social-link {
+padding: 0px;
+border-radius: 50%;
+display: flex;    
+align-items: center;    
+justify-content: center;
 width: 44px;
 height: 44px;
+color: #AFB1B8;
 }
 .social-link:hover,
 .social-link:focus{
-color: var(--accent-color);
-border-radius: 50px;
+color: var(--hero-title-color);
+background-color: var(--accent-color);
 }
-.social:hover,
-.social:focus{
-   fill: var(--hero-title-color);
- }
+
 .social{
   width: 20px;
   height: 20px;
-  fill: #AFB1B8;
+  fill:currentColor;
 
 }
 /*Clients*/
@@ -350,7 +349,7 @@ height: 92px;
 .clients-icon:nth-last-child(n) {
   margin-right: 30px;
 }
-.client-link{
+.client-link {
 display: flex;
 align-items: center;    
 justify-content: center;
