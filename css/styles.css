@@ -356,6 +356,7 @@ height: 92px;
 .client-link:hover,
 .client-link:focus{
   color: var(--accent-color) ;
+  border-color: var(--accent-color) ;
 }
 .client{
   width: 106px;
