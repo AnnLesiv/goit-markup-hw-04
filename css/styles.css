@@ -339,7 +339,7 @@ background-color: var(--accent-color);
 }
 
 
-.clients-link:nth-last-child(n) {
+.client-link:nth-last-child(n) {
   margin-right: 30px;
 }
 .client-link {
