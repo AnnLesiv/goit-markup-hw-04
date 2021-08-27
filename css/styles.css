@@ -297,7 +297,7 @@ justify-content: center;
   margin-right: 0px;
 }
 .comand-icons{
-  display: flex;
+display: flex;
  justify-content: space-between;
 }
 
@@ -485,7 +485,9 @@ box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0p
   padding-bottom: 60px;
 }
 .footer-list.container{
-  display: flex;
+display: flex;    
+align-items: center;    
+justify-content: center;
 }
 
 .footer-logo {
@@ -545,5 +547,27 @@ box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0p
   margin-left: 70px;
   
 }
+.footer-link{
+padding: 0px;
+border-radius: 50%;
+display: flex;    
+align-items: center;    
+justify-content: center;
+width: 44px;
+height: 44px;
+color: var(--hero-title-color);
+background-color: rgba(255, 255, 255, 0.1);;
+}
+.footer-link:nth-last-child(n) {
+  margin-right: 30px;
+}
+.footer-link:hover,
+.footer-link:focus{
+  background-color: var(--accent-color);
+}
+.footer-link.social{
+  width: 20px;
+  height: 20px;
+  fill:currentColor;
 
-
+}
