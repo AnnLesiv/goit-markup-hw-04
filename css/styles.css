@@ -563,7 +563,7 @@ color: var(--hero-title-color);
 background-color: rgba(255, 255, 255, 0.1);;
 }
 .footer-link:nth-last-child(n) {
-  margin-right: 30px;
+  margin-right: 10px;
 }
 .footer-link:hover,
 .footer-link:focus{
@@ -575,7 +575,5 @@ background-color: rgba(255, 255, 255, 0.1);;
   fill:currentColor;
 }
 .footer-subscribe {
-  margin-top: 72px;
-  margin-bottom: 100px;
   margin-left: 70px;
 }
